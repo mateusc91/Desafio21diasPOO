@@ -1,5 +1,6 @@
-com\mycompany\aula04\PessoaJuridica.class
-com\mycompany\aula04\I_Pessoa.class
-com\mycompany\aula04\Main.class
-com\mycompany\aula04\PessoaFisica.class
-com\mycompany\aula04\Pessoa.class
+com\mycompany\Desafio21diasPOO\I_Pessoa.class
+com\mycompany\Desafio21diasPOO\Servicos.class
+com\mycompany\Desafio21diasPOO\Pessoa.class
+com\mycompany\Desafio21diasPOO\PessoaFisica.class
+com\mycompany\Desafio21diasPOO\Main.class
+com\mycompany\Desafio21diasPOO\PessoaJuridica.class
